@@ -1,0 +1,42 @@
+#flexCheckIndeterminate{
+
+float: left;
+
+}
+
+#h1{
+    text-align: center;
+    margin: auto;
+    background: #CF19C9;
+    background: -webkit-linear-gradient(to right, #CF19C9 0%, #5B53CF 100%);
+    background: -moz-linear-gradient(to right, #CF19C9 0%, #5B53CF 100%);
+    background: linear-gradient(to right, #CF19C9 0%, #5B53CF 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    
+
+}
+
+
+#content{
+    margin: auto;
+    align-items: center;
+    position: absolute;
+    left: 42%;
+    top: 10%
+}
+
+#tasks{
+    margin: auto;
+    align-items: center;
+    position: absolute;
+    left: 42%;
+    top: 15%
+}
+
+#para{
+    margin-left: 10px;
+    padding: 20px;
+}
+
+
